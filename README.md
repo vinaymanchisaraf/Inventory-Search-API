@@ -1,4 +1,4 @@
- ****Inventory Search Application***
+ Inventory Search Application
 
 A full-stack inventory search system that allows users to search and filter products across multiple categories using dynamic query parameters.
 

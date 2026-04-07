@@ -1,0 +1,12 @@
+[
+  { "id": 1, "product_name": "iPhone 13", "category": "Electronics", "price": 700 },
+  { "id": 2, "product_name": "Samsung TV", "category": "Electronics", "price": 500 },
+  { "id": 3, "product_name": "Nike Shoes", "category": "Footwear", "price": 120 },
+  { "id": 4, "product_name": "Adidas T-shirt", "category": "Clothing", "price": 40 },
+  { "id": 5, "product_name": "Dell Laptop", "category": "Electronics", "price": 900 },
+  { "id": 6, "product_name": "Puma Sneakers", "category": "Footwear", "price": 150 },
+  { "id": 7, "product_name": "Levi's Jeans", "category": "Clothing", "price": 60 },
+  { "id": 8, "product_name": "HP Printer", "category": "Electronics", "price": 200 },
+  { "id": 9, "product_name": "Wooden Chair", "category": "Furniture", "price": 80 },
+  { "id": 10, "product_name": "Dining Table", "category": "Furniture", "price": 300 }
+]
